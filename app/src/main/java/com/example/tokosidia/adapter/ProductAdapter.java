@@ -21,6 +21,7 @@ public class ProductAdapter extends
     // Variabel konteks dan data produk
     private Context context;
     private List<Product> productList;
+    // wow
     private int viewType; // Menentukan jenis layout yang digunakan
     // Menerima data dan jenis tampilan
     public ProductAdapter(Context context, List<Product> productList, int
